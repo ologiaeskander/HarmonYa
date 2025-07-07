@@ -1,5 +1,5 @@
 # HarmonYǎ – Hybrid Music Recommendation System 
-
+<img src="https://github.com/ologiaeskander/HarmonYa/blob/main/assets/Logo_back.png?raw=true" height="100"/>
 
 HarmonYǎ is a modular, scalable music recommendation system that combines collaborative filtering (CF) and content-based filtering (CBF) to deliver personalized, cold-start-resilient track recommendations. It also suggests a proof of concept unified content aware collaborative filtering model architecture.
 
